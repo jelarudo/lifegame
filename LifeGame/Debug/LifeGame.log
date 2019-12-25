@@ -1,0 +1,14 @@
+﻿  CellManager.cpp
+c:\users\s-aoki\desktop\lifegame\lifegame\console.h(21): warning C4129: '[': エスケープ シーケンスとして正しく認識されませんでした。
+c:\users\s-aoki\desktop\lifegame\lifegame\cellmanager.cpp(25): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\s-aoki\desktop\lifegame\lifegame\cellmanager.cpp(27): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\s-aoki\desktop\lifegame\lifegame\cellmanager.cpp(42): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\s-aoki\desktop\lifegame\lifegame\cellmanager.cpp(44): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\s-aoki\desktop\lifegame\lifegame\cellmanager.cpp(100): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\s-aoki\desktop\lifegame\lifegame\cellmanager.cpp(102): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\s-aoki\desktop\lifegame\lifegame\cellmanager.cpp(108): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\s-aoki\desktop\lifegame\lifegame\cellmanager.cpp(110): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\s-aoki\desktop\lifegame\lifegame\cellmanager.cpp(120): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\s-aoki\desktop\lifegame\lifegame\cellmanager.cpp(122): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  LifeGame.vcxproj -> C:\Users\s-aoki\Desktop\lifegame\LifeGame\Debug\LifeGame.exe
+  LifeGame.vcxproj -> C:\Users\s-aoki\Desktop\lifegame\LifeGame\Debug\LifeGame.pdb (Full PDB)
